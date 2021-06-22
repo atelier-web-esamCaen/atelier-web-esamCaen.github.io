@@ -1,1 +1,6 @@
 /* mes styles atelier web */
+
+* {
+    margin: 0;
+    padding: 0;
+}
